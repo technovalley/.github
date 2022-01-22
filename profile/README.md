@@ -1,4 +1,4 @@
-![Technovalley_Logo](https://www.technovalley.co.in/wp-content/uploads/2019/05/technovalley-new.png)
+<!--![Technovalley_Logo](https://www.technovalley.co.in/wp-content/uploads/2019/05/technovalley-new.png)-->
 
 <br/><br/>
 
