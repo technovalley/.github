@@ -1,7 +1,4 @@
 <!--![Technovalley_Logo](https://www.technovalley.co.in/wp-content/uploads/2019/05/technovalley-new.png)-->
-
-<br/><br/>
-
 # About Technovalley-AKS
 Landing an internship is one of the best ways to get your foot in the door and drastically improves your chances at landing a full-time job at the company after graduation. Technovalleys internship work on projects that provide valuable hands-on experience and will have the chance to learn from more experienced professionals and state of the art technology.
 
@@ -11,6 +8,7 @@ Landing an internship is one of the best ways to get your foot in the door and d
 
 - [Ethical Hacking Tools List - A curated list of various hacking tools](https://github.com/technovalley-aks/Ethical-Hacking-Tools).
 - [Vulnscan - Tool for advanced vulnerability scanning using NMAP](https://github.com/technovalley-aks/Ethical-Hacking-Tools).
+- [InfoSec Events - A list various Cyber Security Conferences and Events across the globe](https://github.com/technovalley-aks/InfoSec-Events).
 
 <!--
 
