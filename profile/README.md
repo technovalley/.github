@@ -1,9 +1,7 @@
 <!--![Technovalley_Logo](https://www.technovalley.co.in/wp-content/uploads/2019/05/technovalley-new.png)-->
 # About Technovalley-AKS
 Landing an internship is one of the best ways to get your foot in the door and drastically improves your chances at landing a full-time job at the company after graduation. Technovalleys internship work on projects that provide valuable hands-on experience and will have the chance to learn from more experienced professionals and state of the art technology.
-
 <br/><br/>
-
 # Our Projects
 
 - [Ethical Hacking Tools List - A curated list of various hacking tools](https://github.com/technovalley-aks/Ethical-Hacking-Tools).
