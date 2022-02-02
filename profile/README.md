@@ -5,7 +5,7 @@ Landing an internship is one of the best ways to get your foot in the door and d
 # Our Projects
 
 - [Ethical Hacking Tools List - A curated list of various hacking tools](https://github.com/technovalley-aks/Ethical-Hacking-Tools).
-- [Vulnscan - Tool for advanced vulnerability scanning using NMAP](https://github.com/technovalley-aks/Ethical-Hacking-Tools).
+- [Vulnscan - Tool for advanced vulnerability scanning using NMAP](https://github.com/technovalley-aks/Vulnscan).
 - [InfoSec Events - A list various Cyber Security Conferences and Events across the globe](https://github.com/technovalley-aks/InfoSec-Events).
 
 <!--
