@@ -11,6 +11,7 @@ Landing an internship is one of the best ways to get your foot in the door and d
 # Projects by our interns
 
 - [Crawlbot](https://github.com/technovalley-aks/crawlbot).
+- [DEEP-BRUPS](https://github.com/plabin/DEEP-BRUPS)
 <!--
 
 **Here are some ideas to get you started:**
